@@ -4,7 +4,7 @@ FROM iron/ruby
 
 # File Author / Maintainer
 
-MAINTAINER Tim Robertson <timrobertson0122@gmail.com>
+MAINTAINER Tim Robertson timrobertson0122@gmail.com
 
 # Install some additional ruby supporting packages
 
